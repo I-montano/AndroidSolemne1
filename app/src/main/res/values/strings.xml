@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Solemne1</string>
+    <string name="estadoSuperficie">Superficie</string>
+    <string name="estadoSemiSumergido">Semi-sumergido</string>
+    <string name="estadoSumergido">Sumergido</string>
+    <string name="nombrePlanta">CENTRAL_1_4</string>
+    <string name="btnSumario">Ver Sumario</string>
+    <string name="actualizarSumario">Actualizar</string>
+</resources>
